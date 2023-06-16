@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  img {
+    display: inline;
+    width: 100%;
+    height: 430px;
+  }
+  .one{
+      padding: 80px 50px;
+      background-color: black;
+      color: aliceblue;
+      text-align: center;
+  }
+  span{
+      padding: 20% 20%;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-weight: bolder;
+      text-align: justify;
+      font-size: larger;
+  }
+  p,hr{
+    margin: 0 20%;
+    text-align: justify;
+    line-height: 1.5;
+  }
+  hr{
+      margin-top: 50px;
+  }
+  .two{
+      background-color: aliceblue;
+      display: grid;
+      grid-template-columns: auto auto;
+      text-align: center;
+      padding: 10% auto;
+  }
+  .l{
+      color: rgb(122, 83, 83)
+  }
+  .to{
+      margin: 5px 35%;
+      color: rgb(250, 251, 251);
+  }
